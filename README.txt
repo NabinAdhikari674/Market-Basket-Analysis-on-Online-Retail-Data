@@ -4,7 +4,7 @@ ONLINE RETAIL DATASET
 ####  Run 'main.py' ####
 
 clean.py  = used for loading and cleaning of the data
-pre.py    = used for preprocessing of the data along with train and test split.Also used to know more about data and Apply association Rules
+pre.py    = used for preprocessing along with train and test split.Also used to know more about data and Apply association rules
 main.py   = used for training and testing of the split data
 
 
